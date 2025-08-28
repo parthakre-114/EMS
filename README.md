@@ -1,4 +1,4 @@
-Exam Monitoring System (EMS)
+# Exam Monitoring System (EMS)
 
 The Automatic Question Paper Generation System is a web-based application that automates the process of generating question papers for college exams based on the predefined exam pattern. The system ensures that questions are not repeated, and it includes a secure two-factor authentication and encryption scheme to protect user accounts. The current version of the project uses HTML, CSS, JavaScript, PHP, Java, and MySQL technologies. In the future, the project aims to implement machine learning to allow the system to generate questions on its own without relying on a predefined question bank.
 
